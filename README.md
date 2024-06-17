@@ -18,7 +18,7 @@ Este é um sistema de leilões desenvolvido em Go. O sistema permite criar leil�
 1. **Clone o repositório:**
 
    ```sh
-   git clone https://github.com/leocastr0/goexpert-leilao.git
+   git clone https://github.com/leocastr0/goexpert_leilao.git
    cd goexpert-leilao
    ```
 
